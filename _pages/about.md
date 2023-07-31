@@ -13,7 +13,7 @@ Hi! I am an _Assistant Professor_ in the <b>[Department of Computer
 Science](https://engineering.virginia.edu/departments/computer-science){:target="_blank"}</b> at the <b>[University of Virginia](https://www.virginia.edu){:target="_blank"}</b>.
 
 Before joining UVA, I worked as a Research Scholar/Scientist at Princeton
-University. I received my Ph.D. and M.S. in Computer Science from Georgia Tech,
+University. I received my Ph.D. and M.S. in Computer Science from Georgia Tech
 and my B.S. in Computer Science from the University of Wisconsin - Madison. 
 
 # Contact
