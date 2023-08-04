@@ -38,3 +38,6 @@ networking!  If you want to learn, come up with new ideas, design and implement
 them, and deliver impact to our world, come join us! <b>Email me, and also apply [HERE](https://engineering.virginia.edu/departments/computer-science/cs-graduate-program){:target="_blank"}!</b>
 
 
+# News
+  - <b>08/2023</b>: In Fall 2023, I am going to teach [CS 6501 - Software-Defined Networking and Programmable Networks](https://hyojoonkim.com/cs6501-sdn/){:target="_blank"}!
+  - <b>07/2023</b>: I started as an assistant professor at UVA!

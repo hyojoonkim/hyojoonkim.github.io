@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 ### CS 6501: Software-Defined Networking and Programmable Networks 
-  - Fall 2023
+  - <b>[Fall 2023](https://hyojoonkim.com/cs6501-sdn/){:target="_blank"}</b>
