@@ -18,7 +18,7 @@ and my B.S. in Computer Science from the University of Wisconsin - Madison.
 
 # Contact
 Office: Rice Hall Room 501. 85 Engineer's Way. Charlottesville, Virginia 22904\
-Email: hyojoonkim@virginia.edu
+Email: tcr5zr@virginia.edu
 
 # Research
 My research focuses on making computer networks easier to monitor,
