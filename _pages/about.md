@@ -39,5 +39,6 @@ them, and deliver impact to our world, come join us! <b>Email me, and also apply
 
 
 # News
+  - <b>09/2023</b>: I presented [Hydra: Effective Runtime Network Verification](https://dl.acm.org/doi/10.1145/3603269.3604856){:target="_blank"} at ACM SIGCOMM 2023.
   - <b>08/2023</b>: In Fall 2023, I am going to teach [CS 6501 - Software-Defined Networking and Programmable Networks](https://hyojoonkim.com/cs6501-sdn/){:target="_blank"}!
   - <b>07/2023</b>: I started as an assistant professor at UVA!
