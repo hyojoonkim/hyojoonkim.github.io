@@ -16,6 +16,8 @@ Before joining UVA, I worked as a Research Scholar/Scientist at Princeton
 University. I received my Ph.D. and M.S. in Computer Science from Georgia Tech
 and my B.S. in Computer Science from the University of Wisconsin - Madison. 
 
+My [CV is here (PDF)](../files/HyojoonKim_CV.pdf){:target="_blank"}
+
 # Contact
 Office: Rice Hall Room 501. 85 Engineer's Way. Charlottesville, Virginia 22904\
 Email: tcr5zr@virginia.edu
@@ -39,6 +41,8 @@ them, and deliver impact to our world, come join us! <b>Email me, and also apply
 
 
 # News
+  - <b>01/2024</b>: Our [research group website](https://networkmech.github.io){:target="_blank"} is up!
+  - <b>12/2023</b>: "[NAP: Programming data planes with Approximate Data Structures](https://dl.acm.org/doi/10.1145/3630047.3630196){:target="_blank"}" was accepted and presented at [EuroP4 2023](https://opennetworking.org/events/euro-p4-2023/){:target="_blank"} by Mengying (Molly) Pan!
   - <b>10/2023</b>: In Spring 2024, I will teach [CS/ECE 4457 - Computer Networks](https://hyojoonkim.com/cs4457/){:target="_blank"}. Looking foward to meeting our undergrads!
   - <b>09/2023</b>: I presented [Hydra: Effective Runtime Network Verification](https://dl.acm.org/doi/10.1145/3603269.3604856){:target="_blank"} at ACM SIGCOMM 2023.
   - <b>08/2023</b>: In Fall 2023, I am going to teach [CS 6501 - Software-Defined Networking and Programmable Networks](https://hyojoonkim.com/cs6501-sdn/){:target="_blank"}!

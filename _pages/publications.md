@@ -1,9 +1,16 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
+
+# Team
+Group website: [https://networkmech.github.io](https://networkmech.github.io){:target="_blank"}
+
+# Publication
+Please check our group website for the latest list!
+Or you can check my [Google Scholar page](https://scholar.google.com/citations?user=DUEglv4AAAAJ){:target="_blank"}.
 
 ## Conferences & Journals
 
@@ -73,6 +80,10 @@ ACM Internet Measurement Conference (IMC). November, 2011</font><br>
 
 
 ## Selected Workshop Papers
+
+<b>NAP: Programming Data Planes with Approximate Data Structures</b>  ([Link](https://dl.acm.org/doi/10.1145/3630047.3630196){:target="_blank"})
+<br><font size="3">Mengying Pan, <b>Hyojoon Kim</b>, Jennifer Rxford, and David Walker<br>The European P4 Workshop (EuroP4, with CoNEXT). December, 2023</font><br>
+
 
 <b>ONTAS: Flexible and Scalable Online Network Traffic Anonymization System</b>  ([Link](https://dl.acm.org/doi/10.1145/3341216.3342208){:target="_blank"})
 <br><font size="3"><b>Hyojoon Kim</b>, Arpit Gupta<br>ACM SIGCOMM Workshop on Network Meets AI & ML (NetAI). August, 2019</font><br>
