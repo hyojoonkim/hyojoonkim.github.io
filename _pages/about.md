@@ -41,6 +41,7 @@ them, and deliver impact to our world, come join us! <b>Email me, and also apply
 
 
 # News
+  - <b>03/2024</b>: I will serve as a Technical Program Committee member for [ACM IMC 2024](https://conferences.sigcomm.org/imc/2024/){:target="_blank"}.
   - <b>01/2024</b>: Our [research group website](https://networkmech.github.io){:target="_blank"} is up!
   - <b>12/2023</b>: "[NAP: Programming data planes with Approximate Data Structures](https://dl.acm.org/doi/10.1145/3630047.3630196){:target="_blank"}" was accepted and presented at [EuroP4 2023](https://opennetworking.org/events/euro-p4-2023/){:target="_blank"} by Mengying (Molly) Pan!
   - <b>10/2023</b>: In Spring 2024, I will teach [CS/ECE 4457 - Computer Networks](https://hyojoonkim.com/cs4457/){:target="_blank"}. Looking foward to meeting our undergrads!
