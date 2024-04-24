@@ -41,6 +41,7 @@ them, and deliver impact to our world, come join us! <b>Email me, and also apply
 
 
 # News
+  - <b>04/2024</b>: I will serve as a Technical Program Committee member for [USENIX NSDI 2025](https://www.usenix.org/conference/nsdi25){:target="_blank"}.
   - <b>03/2024</b>: I will serve as a Technical Program Committee member for [ACM IMC 2024](https://conferences.sigcomm.org/imc/2024/){:target="_blank"}.
   - <b>01/2024</b>: Our [research group website](https://networkmech.github.io){:target="_blank"} is up!
   - <b>12/2023</b>: "[NAP: Programming data planes with Approximate Data Structures](https://dl.acm.org/doi/10.1145/3630047.3630196){:target="_blank"}" was accepted and presented at [EuroP4 2023](https://opennetworking.org/events/euro-p4-2023/){:target="_blank"} by Mengying (Molly) Pan!
