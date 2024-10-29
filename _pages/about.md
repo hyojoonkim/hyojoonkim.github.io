@@ -41,7 +41,10 @@ and impact our world, join us!\\
 <b>Email me, and also apply [HERE](https://engineering.virginia.edu/departments/computer-science/cs-graduate-program){:target="_blank"}!</b>
 
 
+
 # News
+  - <b>10/2024</b>: [Di Zhu](https://zhudi217.github.io/){:target="_blank"} received the ACM CoNEXT 2024 travel grant! Thank you for the generous gift, and congratulations to Di! 
+  - <b>10/2024</b>: [Di Zhu](https://zhudi217.github.io/){:target="_blank"} will present his ongoing work, "Automating Distributed In-network Classification with Runtime Programmability," at the ACM CoNEXT 2024 Student Workshop!
   - <b>08/2024</b>: Back for 2024/2025! In Fall 2024, I will teach CS 7457 - (Advanced) Computer Networks! 
   - <b>04/2024</b>: I will serve as a Technical Program Committee member for [USENIX NSDI 2025](https://www.usenix.org/conference/nsdi25){:target="_blank"}.
   - <b>03/2024</b>: I will serve as a Technical Program Committee member for [ACM IMC 2024](https://conferences.sigcomm.org/imc/2024/){:target="_blank"}.
