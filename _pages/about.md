@@ -34,12 +34,13 @@ programmable data planes.
 I am also enthusiastic about applying new ideas to real operational
 networks.
            
-<b><font color="red">Prospective Students:</font></b>
-I’m looking for students interested in doing research in systems and
+<b><font color="red">Prospective Students (Fall 2025):</font>
+I plan to hire PhD students interested in doing research in systems and
 networking! If you want to learn, develop new ideas, design and implement them,
-and impact our world, join us!\\
-<b>Email me, and also apply [HERE](https://engineering.virginia.edu/departments/computer-science/cs-graduate-program){:target="_blank"}!</b>
-
+and impact our world, join us!
+Email me, and also apply [HERE](https://engineering.virginia.edu/department/computer-science/academics/graduate-programs/phd-computer-science){:target="_blank"}!</b>
+<br><br>
+The application fee is waived for Fall 2025 applications. The PhD application deadline for Fall 2025 is December 13, 2024.
 
 
 # News
