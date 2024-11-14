@@ -44,6 +44,7 @@ The application fee is waived for Fall 2025 applications. The PhD application de
 
 
 # News
+  - <b>11/2024</b>: I will serve as a Technical Program Committee member for [ACM IMC 2025](https://conferences.sigcomm.org/imc/2025/){:target="_blank"}.
   - <b>10/2024</b>: [Di Zhu](https://zhudi217.github.io/){:target="_blank"} received the ACM CoNEXT 2024 travel grant! Thank you for the generous gift, and congratulations to Di! 
   - <b>10/2024</b>: [Di Zhu](https://zhudi217.github.io/){:target="_blank"} will present his ongoing work, "Automating Distributed In-network Classification with Runtime Programmability," at the ACM CoNEXT 2024 Student Workshop!
   - <b>08/2024</b>: Back for 2024/2025! In Fall 2024, I will teach CS 7457 - (Advanced) Computer Networks! 
