@@ -35,7 +35,7 @@ I am also enthusiastic about applying new ideas to real operational
 networks.
            
 <b><font color="red">Prospective Students (Fall 2025):</font>
-I am looking to hire PhD students interested in research in systems and networking
+I am looking to hire PhD students interested in research in systems and networking.
  [APPLY HERE](https://engineering.virginia.edu/department/computer-science/academics/graduate-programs/phd-computer-science){:target="_blank"}!</b>
 The PhD application fee is waived for Fall 2025 applications, and the deadline is December 13, 2024. 
 In your application, please mention my name as one of the members of your "<font color="red">Faculty Interest</font>." 
