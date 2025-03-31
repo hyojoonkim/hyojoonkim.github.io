@@ -19,7 +19,7 @@ and my B.S. in Computer Science from the University of Wisconsin - Madison.
 My [CV is here (PDF)](../files/HyojoonKim_CV.pdf){:target="_blank"}
 
 # Contact
-Office: Rice Hall Room 500. 85 Engineer's Way. Charlottesville, Virginia 22904\
+Rice Hall Room 500. 85 Engineer's Way. Charlottesville, Virginia 22904\
 Email: tcr5zr@virginia.edu
 
 # Research
@@ -33,18 +33,20 @@ mechanisms in software-defined networking (SDN), P4, and
 programmable data planes. 
 I am also enthusiastic about applying new ideas to real operational
 networks.
-           
-<b><font color="red">Prospective Students (Fall 2025):</font>
-I am looking to hire PhD students interested in research in systems and networking.
- [APPLY HERE](https://engineering.virginia.edu/department/computer-science/academics/graduate-programs/phd-computer-science){:target="_blank"}!</b>
-The PhD application fee is waived for Fall 2025 applications, and the deadline is December 13, 2024. 
-In your application, please mention my name as one of the members of your "<font color="red">Faculty Interest</font>." 
-Also, select "<font color="red">Computer Networks</font>" as one of your "<font color="red">Academic/Research Interests</font>." 
-<b>These steps ensure that I read and review your application.</b>
-
+ 
+[comment]: # <b><font color="red">Prospective Students (Fall 2025):</font>
+[comment]: # I am looking to hire PhD students interested in research in systems and networking.
+[comment]: # [APPLY HERE](https://engineering.virginia.edu/department/computer-science/academics/graduate-programs/phd-computer-science){:target="_blank"}!</b>
+[comment]: # The PhD application fee is waived for Fall 2025 applications, and the deadline is December 13, 2024. 
+[comment]: # In your application, please mention my name as one of the members of your "<font color="red">Faculty Interest</font>." 
+[comment]: # Also, select "<font color="red">Computer Networks</font>" as one of your "<font color="red">Academic/Research Interests</font>." 
+[comment]: # <b>These steps ensure that I read and review your application.</b>
 
 # News
-  - <b>11/2024</b>: I will serve as a Technical Program Committee member for [ACM IMC 2025](https://conferences.sigcomm.org/imc/2025/){:target="_blank"}.
+  - <b>03/2025</b>: I will serve on the Technical Program Committee for [USENIX NSDI 2026](https://www.usenix.org/conference/nsdi26/call-for-papers){:target="_blank"}.
+  - <b>01/2025</b>: In Spring 2025, I will teach CS 4457 - Computer Networks (undergrad)! 
+  - <b>12/2024</b>: [Spotlight](https://dl.acm.org/doi/10.1145/3709373){:target="_blank"} is accepted at ACM CoNEXT 2024. Congrats to Carson Kuzniar. 
+  - <b>11/2024</b>: I will serve on the Technical Program Committee member for [ACM IMC 2025](https://conferences.sigcomm.org/imc/2025/){:target="_blank"}.
   - <b>10/2024</b>: [Di Zhu](https://zhudi217.github.io/){:target="_blank"} received the ACM CoNEXT 2024 travel grant! Thank you for the generous gift, and congratulations to Di! 
   - <b>10/2024</b>: [Di Zhu](https://zhudi217.github.io/){:target="_blank"} will present his ongoing work, "Automating Distributed In-network Classification with Runtime Programmability," at the ACM CoNEXT 2024 Student Workshop!
   - <b>08/2024</b>: Back for 2024/2025! In Fall 2024, I will teach CS 7457 - (Advanced) Computer Networks! 
