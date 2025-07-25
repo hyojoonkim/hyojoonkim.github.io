@@ -45,8 +45,6 @@ networks.
 # News
   - <b>07/2025</b>: The work on scalable video conferencing (Scallop) got accepted to **SIGCOMM 2025**! 
 [The ArXiv version is here](https://arxiv.org/abs/2503.11649){:target="_blank_"}.
-Huge thanks to **Comcast**! 
-We are excited to work on measuring and innovating network-assisted congestion control for live video streaming.
   - <b>03/2025</b>: I will serve on the Technical Program Committee for [USENIX NSDI 2026](https://www.usenix.org/conference/nsdi26/call-for-papers){:target="_blank"}.
   - <b>01/2025</b>: In Spring 2025, I will teach CS 4457 - Computer Networks (undergrad)! 
   - <b>12/2024</b>: [Spotlight](https://dl.acm.org/doi/10.1145/3709373){:target="_blank"} is accepted at ACM CoNEXT 2024. Congrats to Carson Kuzniar. 
