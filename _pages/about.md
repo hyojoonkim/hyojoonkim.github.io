@@ -45,7 +45,6 @@ networks.
 # News
   - <b>07/2025</b>: The work on scalable video conferencing (Scallop) got accepted to **SIGCOMM 2025**! 
 [The ArXiv version is here](https://arxiv.org/abs/2503.11649){:target="_blank_"}.
-  - <b>07/2025</b>: Our group received the [Comcast Innovation Fund](https://innovationfund.comcast.com){:target="_blank_"}!
 Huge thanks to **Comcast**! 
 We are excited to work on measuring and innovating network-assisted congestion control for live video streaming.
   - <b>03/2025</b>: I will serve on the Technical Program Committee for [USENIX NSDI 2026](https://www.usenix.org/conference/nsdi26/call-for-papers){:target="_blank"}.
