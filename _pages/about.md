@@ -43,8 +43,9 @@ networks.
 [comment]: # <b>These steps ensure that I read and review your application.</b>
 
 # News
-  - <b>07/2025</b>: The work on scalable video conferencing (Scallop) got accepted to **SIGCOMM 2025**! 
-[The ArXiv version is here](https://arxiv.org/abs/2503.11649){:target="_blank_"}.
+  - <b>10/2025</b>: [Md. Mahir Ashhab](https://md-mahir-ashhab.github.io){:target="_blank"} received the ACM IMC 2025 travel grant! Congratulations to Mahir! He will also present a poster about L4S-based video conferencing applications at the conference.
+  - <b>08/2025</b>: Our research group has expanded with three new members! Welcome, [Boyang, Siyuan, and Tawsif](https://networkmech.github.io/people/){:target="_blank_"}!
+  - <b>07/2025</b>: The work on [scalable video conferencing (Scallop)](https://dl.acm.org/doi/10.1145/3718958.3750489){:target="_blank"} got accepted to **SIGCOMM 2025**! 
   - <b>03/2025</b>: I will serve on the Technical Program Committee for [USENIX NSDI 2026](https://www.usenix.org/conference/nsdi26/call-for-papers){:target="_blank"}.
   - <b>01/2025</b>: In Spring 2025, I will teach CS 4457 - Computer Networks (undergrad)! 
   - <b>12/2024</b>: [Spotlight](https://dl.acm.org/doi/10.1145/3709373){:target="_blank"} is accepted at ACM CoNEXT 2024. Congrats to Carson Kuzniar. 
